@@ -69,13 +69,13 @@ margin-bottom: 45px;
     padding-top: 95px;
 }
 .dale-1{
-    margin-left: 125px;
+    padding-left: 125px;
 }
 .dale-2{
-    margin-left: 125px;
+    padding-left: 125px;
 }
 .dale-3{
-    margin-left: 125px;
+    padding-left: 125px;
 }
 .home-dale{
     
@@ -86,6 +86,13 @@ margin-bottom: 45px;
     padding: 86px 0;
 }
 /* chaps */
+.deal{
+    padding: 100px  250px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+}
 .chap-title{
     color: #272727;
     font-size: 40px;
@@ -100,4 +107,67 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 line-height: 30px; /* 166.667% */
+}
+.chap-btn{
+    border-radius: 8px;
+background: #E55473;
+color: #FFF;
+padding: 20px 40px;
+border: none;
+}
+/* insta */
+.insta-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.insta-desc{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.insta-images{
+    margin-top: 50px;
+    display: flex;
+    gap: 15px;
+}
+.img-des{
+    width: 322px;
+height: 345px;
+flex-shrink: 0;
+}
+.rafe-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.rafe-desc{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+}
+.forma{
+    
+}
+.form-st{
+    font-size: medium;
+    width: 700px;
+height: 44px;
+border-radius: 8px;
+background: #FFF;
+
+}
+.form-btn{
+    color: #FFF;
+font-size: 20px;
+font-weight: 700;
+width: 150px;
+height: 64px;
+border-radius: 8px;
+background: #E55473;
+border: none;
 }
