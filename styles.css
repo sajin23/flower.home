@@ -138,11 +138,18 @@ font-weight: 400;
 height: 345px;
 flex-shrink: 0;
 }
+.bg{
+    margin: 115px 130px;
+    padding: 121px 180px;
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+}
 .rafe-title{
     color: #272727;
 text-align: center;
 font-size: 40px;
 font-weight: 800;
+
 }
 .rafe-desc{
     color: rgba(39, 39, 39, 0.60);
@@ -150,15 +157,15 @@ text-align: center;
 font-size: 18px;
 font-weight: 400;
 }
-.forma{
-    
-}
+
+
 .form-st{
     font-size: medium;
-    width: 700px;
+    width: 500px;
 height: 44px;
 border-radius: 8px;
 background: #FFF;
+margin-bottom: 100px;
 
 }
 .form-btn{
@@ -170,4 +177,30 @@ height: 64px;
 border-radius: 8px;
 background: #E55473;
 border: none;
+}
+.foot-title{
+    color: #E55473;
+    text-align: center;
+font-size: 48px;
+font-weight: 800;
+}
+.foot-span{
+    color: #FFF;
+}
+.foot-desc{
+    color: #FFF;
+    text-align: center;
+font-size: 18px;
+font-weight: 800;
+}
+.foot-end{
+    margin-top: 25px;
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+.footer{
+    padding: 120px 350px;
+    background: #111010;
 }
