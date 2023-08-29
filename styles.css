@@ -55,6 +55,7 @@ margin-bottom: 45px;
     background: rgba(5, 151, 160, 0.15);
     padding: 0 55px;
     padding-top: 95px;
+    
 }
 .flows-2{
     border-radius: 300px 300px 0px 0px;
@@ -67,8 +68,36 @@ margin-bottom: 45px;
     padding: 0 55px;
     padding-top: 95px;
 }
+.dale-1{
+    margin-left: 125px;
+}
+.dale-2{
+    margin-left: 125px;
+}
+.dale-3{
+    margin-left: 125px;
+}
 .home-dale{
-    margin: ;
+    
+    margin: 125px 300px ;
     display: flex;
-    gap: 90px;
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    padding: 86px 0;
+}
+/* chaps */
+.chap-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.chap-span{
+    color: #E55473;
+}
+.chap-desc{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px; /* 166.667% */
 }
